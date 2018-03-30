@@ -8,7 +8,7 @@ token handling endpoint.
 ### Build
 
     $ # Clone repo
-    $ git clone https://github.com/etsy/applepay-php.git
+    $ git clone https://github.com/zeggel/applepay-php.git
     $ cd applepay-php
     $
     $ # Install OpenSSL development files (>= 1.0.2 required)
